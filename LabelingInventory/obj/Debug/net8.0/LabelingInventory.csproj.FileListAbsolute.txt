@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\bin\Debug\net8.0\LabelingInventory.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\refint\LabelingInventory.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\LabelingInventory.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\LabelingInventory\obj\Debug\net8.0\ref\LabelingInventory.dll

@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\bin\Debug\net8.0\TheLongGame.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\bin\Debug\net8.0\TheLongGame.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\bin\Debug\net8.0\TheLongGame.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\bin\Debug\net8.0\TheLongGame.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\bin\Debug\net8.0\TheLongGame.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\TheLongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\TheLongGame.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\TheLongGame.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\TheLongGame.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\TheLongGame.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\refint\TheLongGame.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\TheLongGame.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\TheLongGame.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLongGame\obj\Debug\net8.0\ref\TheLongGame.dll

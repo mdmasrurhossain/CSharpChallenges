@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\bin\Debug\net8.0\ThePoint.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\refint\ThePoint.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\ThePoint.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ThePoint\obj\Debug\net8.0\ref\ThePoint.dll

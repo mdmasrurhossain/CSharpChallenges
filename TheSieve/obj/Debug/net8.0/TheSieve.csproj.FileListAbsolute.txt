@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\bin\Debug\net8.0\TheSieve.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\bin\Debug\net8.0\TheSieve.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\bin\Debug\net8.0\TheSieve.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\bin\Debug\net8.0\TheSieve.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\bin\Debug\net8.0\TheSieve.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\TheSieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\TheSieve.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\TheSieve.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\TheSieve.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\TheSieve.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\refint\TheSieve.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\TheSieve.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\TheSieve.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheSieve\obj\Debug\net8.0\ref\TheSieve.dll

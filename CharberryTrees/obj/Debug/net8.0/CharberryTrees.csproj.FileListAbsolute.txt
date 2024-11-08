@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\bin\Debug\net8.0\CharberryTrees.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\bin\Debug\net8.0\CharberryTrees.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\bin\Debug\net8.0\CharberryTrees.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\bin\Debug\net8.0\CharberryTrees.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\bin\Debug\net8.0\CharberryTrees.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\CharberryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\CharberryTrees.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\CharberryTrees.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\CharberryTrees.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\CharberryTrees.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\refint\CharberryTrees.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\CharberryTrees.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\CharberryTrees.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\CharberryTrees\obj\Debug\net8.0\ref\CharberryTrees.dll

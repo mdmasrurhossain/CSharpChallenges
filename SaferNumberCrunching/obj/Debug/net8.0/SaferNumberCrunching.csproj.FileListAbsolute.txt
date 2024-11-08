@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\bin\Debug\net8.0\SaferNumberCrunching.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\bin\Debug\net8.0\SaferNumberCrunching.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\bin\Debug\net8.0\SaferNumberCrunching.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\bin\Debug\net8.0\SaferNumberCrunching.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\bin\Debug\net8.0\SaferNumberCrunching.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\SaferNumberCrunching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\SaferNumberCrunching.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\SaferNumberCrunching.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\SaferNumberCrunching.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\SaferNumberCrunching.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\refint\SaferNumberCrunching.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\SaferNumberCrunching.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\SaferNumberCrunching.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\SaferNumberCrunching\obj\Debug\net8.0\ref\SaferNumberCrunching.dll

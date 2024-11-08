@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\ExeptisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\ExeptisGame.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\ExeptisGame.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\ExeptisGame.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\bin\Debug\net8.0\ExeptisGame.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\bin\Debug\net8.0\ExeptisGame.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\bin\Debug\net8.0\ExeptisGame.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\bin\Debug\net8.0\ExeptisGame.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\bin\Debug\net8.0\ExeptisGame.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\ExeptisGame.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\refint\ExeptisGame.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\ExeptisGame.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\ExeptisGame.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ExeptisGame\obj\Debug\net8.0\ref\ExeptisGame.dll

@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\shootcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:shootcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\pitbreezesense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:pitbreezesense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:movecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\maelstromsense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:maelstromsense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\maelstrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:maelstrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\lightinentrancesense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:lightinentrancesense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\isense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:isense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:helpcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\fountainsense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:fountainsense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\fountainofobjectsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:fountainofobjectsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\enablefountaincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:enablefountaincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|c:\\users\\rman\\git\\monogame\\csplayersguide\\thefountainofobjects\\amarok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:amarok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\amaroksense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401923A6-9B1C-470D-983C-83F50BDE8514}|TheFountainOfObjects.csproj|solutionrelative:amaroksense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:11:07.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShootCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\ShootCommand.cs",
+              "RelativeDocumentMoniker": "ShootCommand.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\ShootCommand.cs",
+              "RelativeToolTip": "ShootCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:08:32.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:08:20.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PitBreezeSense.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\PitBreezeSense.cs",
+              "RelativeDocumentMoniker": "PitBreezeSense.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\PitBreezeSense.cs",
+              "RelativeToolTip": "PitBreezeSense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:05:23.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\MoveCommand.cs",
+              "RelativeDocumentMoniker": "MoveCommand.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\MoveCommand.cs",
+              "RelativeToolTip": "MoveCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:05:19.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Monster.cs",
+              "RelativeDocumentMoniker": "Monster.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Monster.cs",
+              "RelativeToolTip": "Monster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:05:14.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:05:10.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaelstromSense.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\MaelstromSense.cs",
+              "RelativeDocumentMoniker": "MaelstromSense.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\MaelstromSense.cs",
+              "RelativeToolTip": "MaelstromSense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:05:06.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Maelstrom.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Maelstrom.cs",
+              "RelativeDocumentMoniker": "Maelstrom.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Maelstrom.cs",
+              "RelativeToolTip": "Maelstrom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:05:02.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LightInEntranceSense.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\LightInEntranceSense.cs",
+              "RelativeDocumentMoniker": "LightInEntranceSense.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\LightInEntranceSense.cs",
+              "RelativeToolTip": "LightInEntranceSense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:04:59.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISense.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\ISense.cs",
+              "RelativeDocumentMoniker": "ISense.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\ISense.cs",
+              "RelativeToolTip": "ISense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:04:55.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\ICommand.cs",
+              "RelativeDocumentMoniker": "ICommand.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\ICommand.cs",
+              "RelativeToolTip": "ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:04:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HelpCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\HelpCommand.cs",
+              "RelativeDocumentMoniker": "HelpCommand.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\HelpCommand.cs",
+              "RelativeToolTip": "HelpCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:04:41.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Amarok.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Amarok.cs",
+              "RelativeDocumentMoniker": "Amarok.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Amarok.cs",
+              "RelativeToolTip": "Amarok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:03:17.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FountainSense.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\FountainSense.cs",
+              "RelativeDocumentMoniker": "FountainSense.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\FountainSense.cs",
+              "RelativeToolTip": "FountainSense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:01:54.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnableFountainCommand.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\EnableFountainCommand.cs",
+              "RelativeDocumentMoniker": "EnableFountainCommand.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\EnableFountainCommand.cs",
+              "RelativeToolTip": "EnableFountainCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:01:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\ConsoleHelper.cs",
+              "RelativeToolTip": "ConsoleHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:00:18.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AmarokSense.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\AmarokSense.cs",
+              "RelativeDocumentMoniker": "AmarokSense.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\AmarokSense.cs",
+              "RelativeToolTip": "AmarokSense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:55:57.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FountainOfObjectsGame.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\FountainOfObjectsGame.cs",
+              "RelativeDocumentMoniker": "FountainOfObjectsGame.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\FountainOfObjectsGame.cs",
+              "RelativeToolTip": "FountainOfObjectsGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:52:57.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:47:03.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

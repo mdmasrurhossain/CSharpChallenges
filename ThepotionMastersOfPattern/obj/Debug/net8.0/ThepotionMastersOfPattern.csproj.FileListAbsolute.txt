@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\bin\Debug\net8.0\ThepotionMastersOfPattern.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\bin\Debug\net8.0\ThepotionMastersOfPattern.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\bin\Debug\net8.0\ThepotionMastersOfPattern.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\bin\Debug\net8.0\ThepotionMastersOfPattern.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\bin\Debug\net8.0\ThepotionMastersOfPattern.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\ThepotionMastersOfPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\ThepotionMastersOfPattern.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\ThepotionMastersOfPattern.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\ThepotionMastersOfPattern.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\ThepotionMastersOfPattern.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\refint\ThepotionMastersOfPattern.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\ThepotionMastersOfPattern.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\ThepotionMastersOfPattern.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\ThepotionMastersOfPattern\obj\Debug\net8.0\ref\ThepotionMastersOfPattern.dll

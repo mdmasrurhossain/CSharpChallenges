@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IndexingOperandCity/1.0.0": {
+        "runtime": {
+          "IndexingOperandCity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndexingOperandCity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

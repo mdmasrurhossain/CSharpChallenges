@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\bin\Debug\net8.0\TheLambdaSieve.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\bin\Debug\net8.0\TheLambdaSieve.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\bin\Debug\net8.0\TheLambdaSieve.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\bin\Debug\net8.0\TheLambdaSieve.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\bin\Debug\net8.0\TheLambdaSieve.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\TheLambdaSieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\TheLambdaSieve.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\TheLambdaSieve.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\TheLambdaSieve.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\TheLambdaSieve.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\refint\TheLambdaSieve.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\TheLambdaSieve.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\TheLambdaSieve.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\TheLambdaSieve\obj\Debug\net8.0\ref\TheLambdaSieve.dll

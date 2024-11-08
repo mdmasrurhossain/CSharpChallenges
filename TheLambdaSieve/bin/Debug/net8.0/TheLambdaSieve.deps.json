@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TheLambdaSieve/1.0.0": {
+        "runtime": {
+          "TheLambdaSieve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheLambdaSieve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

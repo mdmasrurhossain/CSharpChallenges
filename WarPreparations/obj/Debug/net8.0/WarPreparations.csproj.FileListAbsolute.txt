@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\bin\Debug\net8.0\WarPreparations.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\bin\Debug\net8.0\WarPreparations.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\bin\Debug\net8.0\WarPreparations.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\bin\Debug\net8.0\WarPreparations.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\bin\Debug\net8.0\WarPreparations.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\WarPreparations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\WarPreparations.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\WarPreparations.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\WarPreparations.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\WarPreparations.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\refint\WarPreparations.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\WarPreparations.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\WarPreparations.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\WarPreparations\obj\Debug\net8.0\ref\WarPreparations.dll

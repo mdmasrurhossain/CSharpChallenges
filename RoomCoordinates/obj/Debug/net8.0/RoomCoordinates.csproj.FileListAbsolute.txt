@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\bin\Debug\net8.0\RoomCoordinates.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\refint\RoomCoordinates.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\RoomCoordinates.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\RoomCoordinates\obj\Debug\net8.0\ref\RoomCoordinates.dll

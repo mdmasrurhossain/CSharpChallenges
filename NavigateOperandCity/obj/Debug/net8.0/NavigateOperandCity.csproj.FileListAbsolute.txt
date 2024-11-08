@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\bin\Debug\net8.0\NavigateOperandCity.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\bin\Debug\net8.0\NavigateOperandCity.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\bin\Debug\net8.0\NavigateOperandCity.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\bin\Debug\net8.0\NavigateOperandCity.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\bin\Debug\net8.0\NavigateOperandCity.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\NavigateOperandCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\NavigateOperandCity.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\NavigateOperandCity.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\NavigateOperandCity.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\NavigateOperandCity.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\refint\NavigateOperandCity.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\NavigateOperandCity.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\NavigateOperandCity.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\NavigateOperandCity\obj\Debug\net8.0\ref\NavigateOperandCity.dll

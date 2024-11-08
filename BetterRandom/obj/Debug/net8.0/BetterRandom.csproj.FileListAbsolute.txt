@@ -1,0 +1,14 @@
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\bin\Debug\net8.0\BetterRandom.exe
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\bin\Debug\net8.0\BetterRandom.deps.json
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\bin\Debug\net8.0\BetterRandom.runtimeconfig.json
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\bin\Debug\net8.0\BetterRandom.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\bin\Debug\net8.0\BetterRandom.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\BetterRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\BetterRandom.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\BetterRandom.AssemblyInfo.cs
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\BetterRandom.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\BetterRandom.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\refint\BetterRandom.dll
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\BetterRandom.pdb
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\BetterRandom.genruntimeconfig.cache
+C:\Users\rman\git\monogame\CSPlayersGuide\BetterRandom\obj\Debug\net8.0\ref\BetterRandom.dll
