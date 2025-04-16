@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\iattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:iattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\mylaraandskorin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:mylaraandskorin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\attackaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:attackaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\equipgearaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:equipgearaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\stoneamarok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:stoneamarok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\thetrueprogrammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:thetrueprogrammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\iattackmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:iattackmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\vinfletcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:vinfletcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\theuncodedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:theuncodedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\iaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:iaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\battlerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:battlerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\donothingaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:donothingaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\coloredconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:coloredconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\igear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:igear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\useitemaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:useitemaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|c:\\users\\rman\\git\\csharpchallenges\\thefinalbattle\\consoleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{387E2AF5-A154-4975-AF71-1E19C86A3F7F}|TheFinalBattle.csproj|solutionrelative:consoleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MylaraAndSkorin.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\MylaraAndSkorin.cs",
+              "RelativeDocumentMoniker": "MylaraAndSkorin.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\MylaraAndSkorin.cs",
+              "RelativeToolTip": "MylaraAndSkorin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T01:11:27.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoneAmarok.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\StoneAmarok.cs",
+              "RelativeDocumentMoniker": "StoneAmarok.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\StoneAmarok.cs",
+              "RelativeToolTip": "StoneAmarok.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:15:09.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAttackModifier.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IAttackModifier.cs",
+              "RelativeDocumentMoniker": "IAttackModifier.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IAttackModifier.cs",
+              "RelativeToolTip": "IAttackModifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:11:07.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VinFletcher.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\VinFletcher.cs",
+              "RelativeDocumentMoniker": "VinFletcher.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\VinFletcher.cs",
+              "RelativeToolTip": "VinFletcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:23:29.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGear.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IGear.cs",
+              "RelativeDocumentMoniker": "IGear.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IGear.cs",
+              "RelativeToolTip": "IGear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:55:43.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipGearAction.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\EquipGearAction.cs",
+              "RelativeDocumentMoniker": "EquipGearAction.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\EquipGearAction.cs",
+              "RelativeToolTip": "EquipGearAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:53:38.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UseItemAction.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\UseItemAction.cs",
+              "RelativeDocumentMoniker": "UseItemAction.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\UseItemAction.cs",
+              "RelativeToolTip": "UseItemAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:19:51.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IItem.cs",
+              "RelativeDocumentMoniker": "IItem.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IItem.cs",
+              "RelativeToolTip": "IItem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:10:32.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IPlayer.cs",
+              "RelativeDocumentMoniker": "IPlayer.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IPlayer.cs",
+              "RelativeToolTip": "IPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:59:28.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BattleRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\BattleRenderer.cs",
+              "RelativeDocumentMoniker": "BattleRenderer.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\BattleRenderer.cs",
+              "RelativeToolTip": "BattleRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:55:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TheUncodedOne.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\TheUncodedOne.cs",
+              "RelativeDocumentMoniker": "TheUncodedOne.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\TheUncodedOne.cs",
+              "RelativeToolTip": "TheUncodedOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:18:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TheTrueProgrammer.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\TheTrueProgrammer.cs",
+              "RelativeDocumentMoniker": "TheTrueProgrammer.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\TheTrueProgrammer.cs",
+              "RelativeToolTip": "TheTrueProgrammer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:18:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Skeleton.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Skeleton.cs",
+              "RelativeDocumentMoniker": "Skeleton.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Skeleton.cs",
+              "RelativeToolTip": "Skeleton.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:18:16.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoNothingAction.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\DoNothingAction.cs",
+              "RelativeDocumentMoniker": "DoNothingAction.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\DoNothingAction.cs",
+              "RelativeToolTip": "DoNothingAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:17:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAction.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IAction.cs",
+              "RelativeDocumentMoniker": "IAction.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IAction.cs",
+              "RelativeToolTip": "IAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:16:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAttack.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IAttack.cs",
+              "RelativeDocumentMoniker": "IAttack.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\IAttack.cs",
+              "RelativeToolTip": "IAttack.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:16:45.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Party.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Party.cs",
+              "RelativeDocumentMoniker": "Party.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Party.cs",
+              "RelativeToolTip": "Party.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:15:41.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttackAction.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\AttackAction.cs",
+              "RelativeDocumentMoniker": "AttackAction.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\AttackAction.cs",
+              "RelativeToolTip": "AttackAction.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:15:33.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Battle.cs",
+              "RelativeDocumentMoniker": "Battle.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Battle.cs",
+              "RelativeToolTip": "Battle.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:15:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:15:21.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ColoredConsole.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\ColoredConsole.cs",
+              "RelativeDocumentMoniker": "ColoredConsole.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\ColoredConsole.cs",
+              "RelativeToolTip": "ColoredConsole.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:15:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "ComputerPlayer.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\ComputerPlayer.cs",
+              "RelativeToolTip": "ComputerPlayer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:15:10.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConsolePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\ConsolePlayer.cs",
+              "RelativeDocumentMoniker": "ConsolePlayer.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\ConsolePlayer.cs",
+              "RelativeToolTip": "ConsolePlayer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:14:55.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFinalBattle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:21:45.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

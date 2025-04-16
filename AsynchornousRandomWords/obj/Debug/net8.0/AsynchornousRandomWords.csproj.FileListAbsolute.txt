@@ -1,0 +1,15 @@
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\bin\Debug\net8.0\AsynchornousRandomWords.exe
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\bin\Debug\net8.0\AsynchornousRandomWords.deps.json
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\bin\Debug\net8.0\AsynchornousRandomWords.runtimeconfig.json
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\bin\Debug\net8.0\AsynchornousRandomWords.dll
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\bin\Debug\net8.0\AsynchornousRandomWords.pdb
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\AsynchornousRandomWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\AsynchornousRandomWords.AssemblyInfoInputs.cache
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\AsynchornousRandomWords.AssemblyInfo.cs
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\AsynchornousRandomWords.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\AsynchornousRandomWords.sourcelink.json
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\AsynchornousRandomWords.dll
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\refint\AsynchornousRandomWords.dll
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\AsynchornousRandomWords.pdb
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\AsynchornousRandomWords.genruntimeconfig.cache
+C:\Users\rman\git\CSharpChallenges\AsynchornousRandomWords\obj\Debug\net8.0\ref\AsynchornousRandomWords.dll

@@ -1,0 +1,15 @@
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\bin\Debug\net8.0\ColoredConsoleHelper.exe
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\bin\Debug\net8.0\ColoredConsoleHelper.deps.json
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\bin\Debug\net8.0\ColoredConsoleHelper.runtimeconfig.json
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\bin\Debug\net8.0\ColoredConsoleHelper.dll
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\bin\Debug\net8.0\ColoredConsoleHelper.pdb
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ColoredConsoleHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ColoredConsoleHelper.AssemblyInfoInputs.cache
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ColoredConsoleHelper.AssemblyInfo.cs
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ColoredConsoleHelper.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ColoredConsoleHelper.sourcelink.json
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ColoredConsoleHelper.dll
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\refint\ColoredConsoleHelper.dll
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ColoredConsoleHelper.pdb
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ColoredConsoleHelper.genruntimeconfig.cache
+C:\Users\rman\git\CSharpChallenges\ColoredConsoleHelper\obj\Debug\net8.0\ref\ColoredConsoleHelper.dll

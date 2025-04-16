@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kLnItxohAw4TakzlKu1q/M4ekL4awkaq+tfaquLVQ+GCYhR7CCz9h90NDs5odcH/Lu32QhJ866qQ5b7XJ9C+NQ==",
+  "dgSpecHash": "+VWgb2WxuCw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheColor\\TheColor.csproj",
+  "projectFilePath": "C:\\Users\\rman\\git\\CSharpChallenges\\TheColor\\TheColor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rman/git/CSharpChallenges/InputPractice/Content/assets/audio/background.mp3","C:/Users/rman/git/CSharpChallenges/InputPractice/Content/bin/DesktopGL/Content/assets/audio/background.xnb","SongProcessor","SongContent",9848618,128,3.9958768
+"C:/Users/rman/git/CSharpChallenges/InputPractice/Content/assets/audio/rocketThruster.wav","C:/Users/rman/git/CSharpChallenges/InputPractice/Content/bin/DesktopGL/Content/assets/audio/rocketThruster.xnb","SoundEffectProcessor","SoundEffectContent",9274912,9274249,0.3810329
+"C:/Users/rman/git/CSharpChallenges/InputPractice/Content/assets/fonts/BackgroundAudioFont.spritefont","C:/Users/rman/git/CSharpChallenges/InputPractice/Content/bin/DesktopGL/Content/assets/fonts/BackgroundAudioFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2217356
+"C:/Users/rman/git/CSharpChallenges/InputPractice/Content/assets/sprites/shuttle.png","C:/Users/rman/git/CSharpChallenges/InputPractice/Content/bin/DesktopGL/Content/assets/sprites/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0.0403113

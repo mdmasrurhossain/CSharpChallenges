@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ColoredConsoleHelper/1.0.0": {
+        "runtime": {
+          "ColoredConsoleHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColoredConsoleHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

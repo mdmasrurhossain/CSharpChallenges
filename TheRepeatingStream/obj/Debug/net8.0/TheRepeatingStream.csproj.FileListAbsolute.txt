@@ -1,0 +1,15 @@
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\bin\Debug\net8.0\TheRepeatingStream.exe
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\bin\Debug\net8.0\TheRepeatingStream.deps.json
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\bin\Debug\net8.0\TheRepeatingStream.runtimeconfig.json
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\bin\Debug\net8.0\TheRepeatingStream.dll
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\bin\Debug\net8.0\TheRepeatingStream.pdb
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\TheRepeatingStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\TheRepeatingStream.AssemblyInfoInputs.cache
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\TheRepeatingStream.AssemblyInfo.cs
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\TheRepeatingStream.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\TheRepeatingStream.sourcelink.json
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\TheRepeatingStream.dll
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\refint\TheRepeatingStream.dll
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\TheRepeatingStream.pdb
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\TheRepeatingStream.genruntimeconfig.cache
+C:\Users\rman\git\CSharpChallenges\TheRepeatingStream\obj\Debug\net8.0\ref\TheRepeatingStream.dll

@@ -1,0 +1,15 @@
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\bin\Debug\net8.0\TheFinalBattle.exe
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\bin\Debug\net8.0\TheFinalBattle.deps.json
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\bin\Debug\net8.0\TheFinalBattle.runtimeconfig.json
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\bin\Debug\net8.0\TheFinalBattle.dll
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\bin\Debug\net8.0\TheFinalBattle.pdb
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\TheFinalBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\TheFinalBattle.AssemblyInfoInputs.cache
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\TheFinalBattle.AssemblyInfo.cs
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\TheFinalBattle.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\TheFinalBattle.sourcelink.json
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\TheFinalBattle.dll
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\refint\TheFinalBattle.dll
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\TheFinalBattle.pdb
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\TheFinalBattle.genruntimeconfig.cache
+C:\Users\rman\git\CSharpChallenges\TheFinalBattle\obj\Debug\net8.0\ref\TheFinalBattle.dll

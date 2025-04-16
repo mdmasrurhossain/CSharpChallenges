@@ -1,0 +1,5 @@
+C:\Users\rman\git\CSharpChallenges\TheFountainOfObjects\bin\Release\net8.0\publish\TheFountainOfObjects.exe
+C:\Users\rman\git\CSharpChallenges\TheFountainOfObjects\bin\Release\net8.0\publish\TheFountainOfObjects.dll
+C:\Users\rman\git\CSharpChallenges\TheFountainOfObjects\bin\Release\net8.0\publish\TheFountainOfObjects.deps.json
+C:\Users\rman\git\CSharpChallenges\TheFountainOfObjects\bin\Release\net8.0\publish\TheFountainOfObjects.runtimeconfig.json
+C:\Users\rman\git\CSharpChallenges\TheFountainOfObjects\bin\Release\net8.0\publish\TheFountainOfObjects.pdb

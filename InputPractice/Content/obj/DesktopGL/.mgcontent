@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rman/git/CSharpChallenges/InputPractice/Content/assets/audio/background.mp3</File>
+    <File>C:/Users/rman/git/CSharpChallenges/InputPractice/Content/assets/audio/rocketThruster.wav</File>
+    <File>C:/Users/rman/git/CSharpChallenges/InputPractice/Content/assets/fonts/BackgroundAudioFont.spritefont</File>
+    <File>C:/Users/rman/git/CSharpChallenges/InputPractice/Content/assets/sprites/shuttle.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

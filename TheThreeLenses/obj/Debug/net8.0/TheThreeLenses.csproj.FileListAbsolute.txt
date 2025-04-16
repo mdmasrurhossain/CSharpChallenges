@@ -1,0 +1,15 @@
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\bin\Debug\net8.0\TheThreeLenses.exe
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\bin\Debug\net8.0\TheThreeLenses.deps.json
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\bin\Debug\net8.0\TheThreeLenses.runtimeconfig.json
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\bin\Debug\net8.0\TheThreeLenses.dll
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\bin\Debug\net8.0\TheThreeLenses.pdb
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\TheThreeLenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\TheThreeLenses.AssemblyInfoInputs.cache
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\TheThreeLenses.AssemblyInfo.cs
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\TheThreeLenses.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\TheThreeLenses.sourcelink.json
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\TheThreeLenses.dll
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\refint\TheThreeLenses.dll
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\TheThreeLenses.pdb
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\TheThreeLenses.genruntimeconfig.cache
+C:\Users\rman\git\CSharpChallenges\TheThreeLenses\obj\Debug\net8.0\ref\TheThreeLenses.dll

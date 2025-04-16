@@ -1,0 +1,15 @@
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\bin\Debug\net8.0\TheRobotFactory.exe
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\bin\Debug\net8.0\TheRobotFactory.deps.json
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\bin\Debug\net8.0\TheRobotFactory.runtimeconfig.json
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\bin\Debug\net8.0\TheRobotFactory.dll
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\bin\Debug\net8.0\TheRobotFactory.pdb
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\TheRobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\TheRobotFactory.AssemblyInfoInputs.cache
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\TheRobotFactory.AssemblyInfo.cs
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\TheRobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\TheRobotFactory.sourcelink.json
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\TheRobotFactory.dll
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\refint\TheRobotFactory.dll
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\TheRobotFactory.pdb
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\TheRobotFactory.genruntimeconfig.cache
+C:\Users\rman\git\CSharpChallenges\TheRobotFactory\obj\Debug\net8.0\ref\TheRobotFactory.dll

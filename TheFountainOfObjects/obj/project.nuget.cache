@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dep0RykCSywaAN9gxLImwTQWvqRZnl6ZvTeR7TwHeuVXZl3JgpOalIBuSy5bYa0u8ROZLwsOQ/11sm+j9uS5uw==",
+  "dgSpecHash": "nW8bp4TyG54=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rman\\git\\monogame\\CSPlayersGuide\\TheFountainOfObjects\\TheFountainOfObjects.csproj",
+  "projectFilePath": "C:\\Users\\rman\\git\\CSharpChallenges\\TheFountainOfObjects\\TheFountainOfObjects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
